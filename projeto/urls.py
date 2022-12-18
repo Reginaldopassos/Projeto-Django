@@ -25,3 +25,5 @@ urlpatterns = [
     path('admin/', admin.site.urls),
     path('sobre/', my_view),
 ]
+
+
