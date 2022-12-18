@@ -1,6 +1,0 @@
-git add . = adiona tudi que mudou para ser comitado.
-
-git commit -m "titulo do commit"=  cria nova versão do programa, mas ainda não está no git.
-
-git push origin main = Manda para o github. 
-
